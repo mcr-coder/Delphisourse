@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020-08-19 16:13:05.241,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020-08-19 16:53:06.083,C:\Users\admin\Documents\Embarcadero\Studio\Projects\2020-08-18 git\Delphisourse\demo\Unit2.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020-08-19 16:53:06.083,C:\Users\admin\Documents\Embarcadero\Studio\Projects\2020-08-18 git\Delphisourse\demo\Unit2.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020-08-19 16:53:08.195,C:\Users\admin\Documents\Embarcadero\Studio\Projects\2020-08-18 git\Delphisourse\demo\Project2.dproj=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
